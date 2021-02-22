@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React-Component-Tree-Kanun---Law-Firm-.git/static/css/main.9e23a565.chunk.css",
+    "main.js": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/main.a4e4692e.chunk.js",
+    "main.js.map": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/main.a4e4692e.chunk.js.map",
+    "runtime-main.js": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/runtime-main.af676cb0.js",
+    "runtime-main.js.map": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/runtime-main.af676cb0.js.map",
+    "static/js/2.442ac626.chunk.js": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/2.442ac626.chunk.js",
+    "static/js/2.442ac626.chunk.js.map": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/2.442ac626.chunk.js.map",
+    "static/js/3.6855ff7a.chunk.js": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/3.6855ff7a.chunk.js",
+    "static/js/3.6855ff7a.chunk.js.map": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/3.6855ff7a.chunk.js.map",
+    "index.html": "/React-Component-Tree-Kanun---Law-Firm-.git/index.html",
+    "static/css/main.9e23a565.chunk.css.map": "/React-Component-Tree-Kanun---Law-Firm-.git/static/css/main.9e23a565.chunk.css.map",
+    "static/js/2.442ac626.chunk.js.LICENSE.txt": "/React-Component-Tree-Kanun---Law-Firm-.git/static/js/2.442ac626.chunk.js.LICENSE.txt",
+    "static/media/about.73601097.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/about.73601097.jpg",
+    "static/media/blog-1.a0dd76ed.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/blog-1.a0dd76ed.jpg",
+    "static/media/blog-2.ca69d39a.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/blog-2.ca69d39a.jpg",
+    "static/media/blog-3.9c980d16.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/blog-3.9c980d16.jpg",
+    "static/media/carousel-1.f6f1880f.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/carousel-1.f6f1880f.jpg",
+    "static/media/carousel-2.930d65a4.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/carousel-2.930d65a4.jpg",
+    "static/media/carousel-3.11e21040.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/carousel-3.11e21040.jpg",
+    "static/media/faqs.2575fccd.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/faqs.2575fccd.jpg",
+    "static/media/feature.73fb2b36.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/feature.73fb2b36.jpg",
+    "static/media/portfolio-1.014366d3.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/portfolio-1.014366d3.jpg",
+    "static/media/portfolio-2.247752e5.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/portfolio-2.247752e5.jpg",
+    "static/media/portfolio-3.cab0338a.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/portfolio-3.cab0338a.jpg",
+    "static/media/portfolio-4.cffc0b7c.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/portfolio-4.cffc0b7c.jpg",
+    "static/media/portfolio-5.d42c2963.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/portfolio-5.d42c2963.jpg",
+    "static/media/portfolio-6.5ac69adf.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/portfolio-6.5ac69adf.jpg",
+    "static/media/team-1.d766c57e.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/team-1.d766c57e.jpg",
+    "static/media/team-2.c3d0da39.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/team-2.c3d0da39.jpg",
+    "static/media/team-3.a8fefead.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/team-3.a8fefead.jpg",
+    "static/media/team-4.c93f3605.jpg": "/React-Component-Tree-Kanun---Law-Firm-.git/static/media/team-4.c93f3605.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af676cb0.js",
+    "static/js/2.442ac626.chunk.js",
+    "static/css/main.9e23a565.chunk.css",
+    "static/js/main.a4e4692e.chunk.js"
+  ]
+}
