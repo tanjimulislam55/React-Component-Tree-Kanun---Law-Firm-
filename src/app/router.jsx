@@ -8,6 +8,7 @@ import ServicePage from '../pages/service'
 import PortfolioPage from '../pages/portfolio'
 import SinglePage from '../pages/single'
 import TeamPage from '../pages/team'
+import NotFoundPage from '../pages/404'
 
 function AppRouter() {
     return (
@@ -20,6 +21,7 @@ function AppRouter() {
             <TeamPage path='/team' />
             <SinglePage path='/single' />
             <ServicePage path='/service' />
+            <NotFoundPage default />
         </Router>
     )
 }
